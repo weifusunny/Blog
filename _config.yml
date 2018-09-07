@@ -1,0 +1,11 @@
+# basic options
+title: Wei's Blog
+author: Wei Fu
+email: s3089134@gmail.com
+description: Love data science 
+#twitter_username: jekyllrb
+github_username:  weifusunny
+
+# Build settings
+markdown: kramdown
+theme: minima
