@@ -5,6 +5,18 @@ title: Basemap cool features
 
 The first time I realized that I can visualize the mobile user's locations on a map. I searched how to deploy basemap features and tried it on this small program. As long as you have longitude and latitude data, you can pin-out and display the spots on any map. That is so cool. 
 
+These are the parameters searched through Google:
+
+sydney=(151.2093,-33.8688)
+
+hobart=(147.3272,-42.8821)
+
+melbourne=(144.9631,-37.8136)
+
+canberra=(149.13,-35.2809)
+
+When visualize the mobile phone user's locations we can easily see that this guy travelled to these cities. 
+
 For more information, please find the code in my github: github/weifusunny/basemap.
 
 Thank you for reading.
