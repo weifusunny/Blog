@@ -5,7 +5,28 @@ title: Basemap cool features
 
 The first time I realized that I can visualize the mobile user's locations on a map. I searched how to deploy basemap features and tried it on this small program. As long as you have longitude and latitude data, you can pin-out and display the spots on any map. That is so cool. 
 
-These are the parameters searched through Google:
+When I saw the unique values of the latitude as below:
+
+array([-33.89293336, -33.88032891, -33.88417103, -33.88024   ,
+       -33.86113   , -33.79661   , -33.796679  , -33.88964   ,
+       -33.87829   , -33.8864    , -33.93416   , -42.83762   ,
+       -42.84338   , -42.85984   , -42.85307   , -42.8606    ,
+       -33.86655   , -33.87932   , -33.89605   , -33.89233   ,
+       -33.87814   , -33.87055   , -33.8703    , -33.87215   ,
+       -33.793648  , -33.80638   , -33.83096   , -33.924799  ,
+       -42.88194   , -42.88101   , -33.884603  , -37.670418  ,
+       -37.7778    , -37.7929    , -33.828073  , -33.79948   ,
+       -33.879     , -33.779333  , -33.86633   , -33.78815   ,
+       -33.87513   , -33.79345   , -33.79275   , -33.934674  ,
+       -33.923217  , -33.937558  , -33.94674   , -33.93285   ,
+       -33.90533   , -33.85947   , -33.8294    , -33.791965  ,
+       -42.87457   , -42.88029   , -33.83415   , -33.88058   ,
+       -42.82842   , -42.88481   , -33.75949   , -33.63599   ,
+       -33.71763   , -33.57839   , -33.6038    , -33.55731   ,
+       -33.86285   , -33.91132   , -36.16793   , -36.3567    ,
+       -36.331075  , -36.50218   ])
+       
+I got the latitude variation range. Based on this range, the locations were limited near these four cities. These are the parameters searched through Google:
 
 sydney=(151.2093,-33.8688)
 
