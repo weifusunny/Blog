@@ -21,3 +21,9 @@ Fourthly, i set up a simple convolutional neural network (CNN) model and a hybri
 Fifthly, i used the train images (500 or 1000 images per landmark) to train and validate the two models individually.
 
 Due to the computer resource limitation and strict deadline, the model can fairly correctly classify up to five landmarks. However in the future the performance of the CNN model can be improved significantly. In other words, it will classify more classes with higher accuracy.
+
+More detail refer to the presentation : https://github.com/weifusunny/capstone
+
+If you are interested in the code, please email me. 
+
+Thank you for reading. Comments are welcomed.
