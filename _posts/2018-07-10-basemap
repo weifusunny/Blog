@@ -1,0 +1,10 @@
+---
+layout: post
+title: Basemap cool features
+---
+
+The first time I realized that I can visualize the mobile user's locations on a map. I searched how to deploy basemap features and tried it on this small program. As long as you have longitude and latitude data, you can pin-out and display the spots on any map. That is so cool. 
+
+For more information, please find the code in my github: github/weifusunny/basemap.
+
+Thank you for reading.
