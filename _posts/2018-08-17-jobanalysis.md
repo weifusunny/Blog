@@ -31,14 +31,13 @@ In the third stage of the project, I have done EDAs to display the average salar
 
 Here are some interesting numbers:
 
-    710 positions are based in Sydney and 366 in Melbourne, much less in other cities or areas
+ 710 positions are based in Sydney and 366 in Melbourne, much less in other cities or areas
 
-    809 positions are in the industry "Information &  Communication technoloy" and 105 in "Science & Technoloy", much fewer in other industries
+ 809 positions are in the industry "Information &  Communication technoloy" and 105 in "Science & Technoloy", much fewer in other industries
 
-    The highest average salary is in Perth and in "Legal" industry, however, due to small number of samples this information might be misleading
+ The highest average salary is in Perth and in "Legal" industry, however, due to small number of samples this information might be misleading
 
-    The middle 50% of the salaries range between 100k and 160k. A few outliers are above 230k. The most frequent salary is around 100k. The salary distribution does not follow normal distribution pattern.
-
+ The middle 50% of the salaries range between 100k and 160k. A few outliers are above 230k. The most frequent salary is around 100k. The salary distribution does not follow normal distribution pattern.
 
 In the fourth stage of the project, i used TDIDFvectoriser of Nature Language Processing( NLP) to determine the relevent features for predicting salary. I have used two machine learning algorithms to train a known salary dataset and predict the salary for the test dataset. One machine learning algoritm is the multiple linear regression with Ridge regularisation. The second machine learning algorithm is the decision tree regression. The comparison between the two algorithms shows that they have yielded very similar prediction results, both for the training and the test data.
 
@@ -46,46 +45,28 @@ In the fifth stage of the project, I have used the countvectoriser of NLP to ana
 
 For a role of 'data scientist', these key words in job descriptions differentiate ths position (the importance level is denoted as a number next to it):
 
-    data           0.989130
-    
-    scientist      0.282609
-    
-    analytics      0.244565
-    
-    join           0.211957
-    
-    team           0.211957
-    
-    looking        0.173913
-    
-    opportunity    0.173913
-    
-    science        0.141304
-    
-    business       0.141304
-    
+    data           0.989130    
+    scientist      0.282609    
+    analytics      0.244565    
+    join           0.211957    
+    team           0.211957    
+    looking        0.173913    
+    opportunity    0.173913    
+    science        0.141304    
+    business       0.141304    
     role           0.135870
     
 Here are the results for a role of 'business intelligence developer':
 
-    business        0.308989
-    
-    developer       0.230337
-    
-    bi              0.207865
-    
-    data            0.207865
-    
-    team            0.196629
-    
-    intelligence    0.196629
-    
-    join            0.185393
-    
-    opportunity     0.174157
-    
-    looking         0.151685
-    
+    business        0.308989    
+    developer       0.230337    
+    bi              0.207865    
+    data            0.207865    
+    team            0.196629    
+    intelligence    0.196629    
+    join            0.185393    
+    opportunity     0.174157    
+    looking         0.151685    
     work            0.146067
 
 In summary, this is a very interesting and challenging project. After completing this, I have practised and mastered a lot of skills: data scraping, data cleaning, Regex, KNN, decision tree, linear regression, ensemble, NLP and so on.
