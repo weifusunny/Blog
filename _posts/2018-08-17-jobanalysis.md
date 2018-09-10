@@ -31,13 +31,13 @@ In the third stage of the project, I have done EDAs to display the average salar
 
 Here are some interesting numbers:
 
- 710 positions are based in Sydney and 366 in Melbourne, much less in other cities or areas
+(a)710 positions are based in Sydney and 366 in Melbourne, much less in other cities or areas
 
- 809 positions are in the industry "Information &  Communication technoloy" and 105 in "Science & Technoloy", much fewer in other industries
+(b)809 positions are in the industry "Information &  Communication technoloy" and 105 in "Science & Technoloy", much fewer in other industries
 
- The highest average salary is in Perth and in "Legal" industry, however, due to small number of samples this information might be misleading
+(c)The highest average salary is in Perth and in "Legal" industry, however, due to small number of samples this information might be misleading
 
- The middle 50% of the salaries range between 100k and 160k. A few outliers are above 230k. The most frequent salary is around 100k. The salary distribution does not follow normal distribution pattern.
+(d)The middle 50% of the salaries range between 100k and 160k. A few outliers are above 230k. The most frequent salary is around 100k. The salary distribution does not follow normal distribution pattern.
 
 In the fourth stage of the project, i used TDIDFvectoriser of Nature Language Processing( NLP) to determine the relevent features for predicting salary. I have used two machine learning algorithms to train a known salary dataset and predict the salary for the test dataset. One machine learning algoritm is the multiple linear regression with Ridge regularisation. The second machine learning algorithm is the decision tree regression. The comparison between the two algorithms shows that they have yielded very similar prediction results, both for the training and the test data.
 
