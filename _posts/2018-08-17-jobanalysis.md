@@ -30,14 +30,10 @@ We can see that the salary may be specified as a number per hour, per day, per a
 In the third stage of the project, I have done EDAs to display the average salary for each location, for each industry, for each category, in the form of bar charts. I have also displayed the salary distribution as a histogram.The EDAs show that the salaries do not vary significantly between different locations and between different industries. Instead the variation is caused by the category and the professional level of the position. Based on this we can conclude that the salary correlates to the job title and the job category.
 
 Here are some interesting numbers:
-
-(a)710 positions are based in Sydney and 366 in Melbourne, much less in other cities or areas
-
-(b)809 positions are in the industry "Information &  Communication technoloy" and 105 in "Science & Technoloy", much fewer in other industries
-
-(c)The highest average salary is in Perth and in "Legal" industry, however, due to small number of samples this information might be misleading
-
-(d)The middle 50% of the salaries range between 100k and 160k. A few outliers are above 230k. The most frequent salary is around 100k. The salary distribution does not follow normal distribution pattern.
+1.710 positions are based in Sydney and 366 in Melbourne, much less in other cities or areas
+2.809 positions are in the industry "Information &  Communication technoloy" and 105 in "Science & Technoloy", much fewer in other industries
+3.The highest average salary is in Perth and in "Legal" industry, however, due to small number of samples this information might be misleading
+4.The middle 50% of the salaries range between 100k and 160k. A few outliers are above 230k. The most frequent salary is around 100k. The salary distribution does not follow normal distribution pattern.
 
 In the fourth stage of the project, i used TDIDFvectoriser of Nature Language Processing( NLP) to determine the relevent features for predicting salary. I have used two machine learning algorithms to train a known salary dataset and predict the salary for the test dataset. One machine learning algoritm is the multiple linear regression with Ridge regularisation. The second machine learning algorithm is the decision tree regression. The comparison between the two algorithms shows that they have yielded very similar prediction results, both for the training and the test data.
 
