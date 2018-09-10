@@ -3,13 +3,12 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
+Wei's blog tracks her study and experiences in data science field. Wei likes to share with the other people that she explored, achieved and amazed. Hope this site would be a small interesting corner for people to drop by and have a chat.
+
 Hope you love it!
 
-Reasons:
-- its great.
-- its a test.
 
-## Other thoughts
 
-This is great.
+## Have the courage to follow your heart and intuition. They somehow know what you truly want to become.
+### --by Steve Jobs
+
