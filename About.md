@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Wei's blog tracks her study and experiences in data science field. Wei likes to share with the other people that she explored, achieved and amazed. Hope this site would be a small interesting corner for people to drop by and have a chat.
+Wei's blog tracks her study and experiences in data science field. Wei likes to share with the other people that she explored, achieved and was amazed. Hope this site would be a small interesting corner for people to drop by and have a chat.
 
 Hope you love it!
 
